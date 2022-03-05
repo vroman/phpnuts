@@ -1,7 +1,7 @@
 <?php
 /*
  * PHP-Nuts. A PHP package loader system.
- * Copyright (C) 2005 VÌctor Rom·n Archidona <contacto@victor-roman.es>
+ * Copyright (C) 2005-2022 V√≠ctor Rom√°n Archidona <victor@victorroman.es>
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
